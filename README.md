@@ -1,2 +1,8 @@
 # Digital-Clock-using-8051
-In this mini project, we are using one 8051 families based microcontroller, one 16×2 LCD display and one 4×4 keyboard for settling the time.
+
+➡️ This is one Mini Project
+
+Here I am using 
+1)  8051 families based microcontroller ( Atmel 89S51 )
+2) 16×2 LCD display
+3) 4×4 keyboard for initial settings the time.
